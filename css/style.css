@@ -39,6 +39,9 @@ footer img {
   width: 20px;
   height: 20px;
 }
+h1 {
+  font-size: 30px;
+}
 /* NAVIGATION BAR */
 .navbar {
   width: 100%;
