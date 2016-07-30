@@ -8,7 +8,7 @@ body {
 .header {
   margin: 0;
   padding: 0;
-  background-color: #ffe038;
+  background-color: #b8860b;
   color: white;
   height: 120px;
 }
@@ -65,7 +65,7 @@ footer img {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 74%;
+  font-size: 60%;
   position: relative;
 }
 .active {
