@@ -18,11 +18,11 @@ body {
   margin-top: 1%;
   margin-left: 2.5%;
   -webkit-text-stroke: 0.85px black;
-  text-shadow:
+  /*text-shadow:
    -0.5px -0.5px 0 #fff,
     0.5px -0.5px 0 #fff,
     -0.5px 0.5px 0 #fff,
-     0.5px 0.5px 0 #fff;
+     0.5px 0.5px 0 #fff;*/
   color: white;
 }
 .lower {
