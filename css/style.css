@@ -1,6 +1,6 @@
 /* BEVERLY GOLDIN RESUME CSS */
 body {
-  font-family: "Verdana", sans-serif;
+  font-family: "Roboto", sans-serif;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -17,8 +17,8 @@ body {
   float: left;
   margin-top: 1%;
   margin-left: 2.5%;
-  /*-webkit-text-stroke: 0.85px black;*/
-  /*text-shadow:
+  /*-webkit-text-stroke: 0.85px black;
+  text-shadow:
    -0.5px -0.5px 0 #fff,
     0.5px -0.5px 0 #fff,
     -0.5px 0.5px 0 #fff,
@@ -38,9 +38,6 @@ footer img {
   margin-top: 3px;
   width: 20px;
   height: 20px;
-}
-h1 {
-  font-size: 30px;
 }
 /* NAVIGATION BAR */
 .navbar {
@@ -72,5 +69,8 @@ h1 {
   position: relative;
 }
 .active {
-  border-bottom: 2px solid #4c68ff;
+  border-bottom: 2px solid #768af6;
+}
+h1 {
+  font-size: 30px;
 }
