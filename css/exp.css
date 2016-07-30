@@ -1,0 +1,95 @@
+/* BEVERLY GOLDIN | EXP.HTML CSS */
+.top {
+  display: flex;
+}
+#content {
+  flex: 1;
+  margin-left: 8%;
+}
+#images {
+  width: 570px;
+  margin-right: 60px;
+}
+#images img {
+  width: 30%;
+  height: 30%;
+  max-width: 140px;
+  max-height: 140px;
+  margin-left: 30px;
+}
+#images h2 {
+  font-size: 1.2vw;
+}
+.expTITLE strong {
+  font-size: 30px;
+}
+h2 {
+  text-decoration: underline;
+}
+#schools, #other, #skills {
+  width: 30%;
+  margin-left: 2%;
+}
+#other {
+  float: left;
+  display: inline-flex;
+  position: relative;
+  margin-right: 50px;
+}
+#skills {
+  float: left;
+  display: inline-flex;
+  position: relative;
+  margin-left: 185px;
+}
+#accordion{
+    width: 600px;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    margin-left: 2%;
+}
+#accordion h2{
+    font-size: 12pt;
+    margin: 0px;
+    padding: 10px;
+    background: #ccc;
+    border-bottom: 1px solid #fff;
+    text-decoration: none;
+}
+#accordion li div.content{
+    display: none;
+    padding: 5px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+}
+#accordion li:hover div.content{
+    display: inherit;
+}
+.subtext {
+  font-size: 10px;
+}
+.subtitle {
+  font-size: 20px;
+}
+.other, .skills {
+  margin-left: 2%;
+}
+.other {
+  width: 450px;
+}
+.other h4, h5 {
+  margin-left: 2%;
+}
+.skills {
+  width: 550px;
+  font-size: .912em;
+}
+.flexo {
+  float: left;
+}
+.flexs {
+  float: right;
+}

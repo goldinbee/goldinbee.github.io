@@ -1,0 +1,20 @@
+/* BEVGOLDIN | INDEX.HTML CSS */
+.summary {
+  margin-top: 5%;
+}
+.portrait {
+  width: 21.5%;
+  height: 21.5%;
+  max-width: 290px;
+  max-height: 290px;
+  float: left;
+  margin-left: 4.2%;
+}
+.desc1 {
+  position: relative;
+  margin: 0;
+  margin-left: 5%;
+  width: 90%;
+  height: auto;
+  max-height: 280px;
+}

@@ -1,0 +1,73 @@
+/* BEVERLY GOLDIN | CONTACT.CSS */
+.top {
+  display: flex;
+}
+.main {
+  margin-left: 8%;
+  width: 65%;
+}
+.main p {
+  margin-right: 1%;
+}
+.next_to {
+  display: inline;
+  float: left;
+  margin-right: 1.55%;
+}
+label {
+  display: block;
+  font-size: 13px;
+}
+input[type="text"], input[type="email"], textarea {
+  padding: 12px 14px;
+  display: block;
+}
+input[type="text"], input[type="email"] {
+  width: 167.5px;
+}
+.req {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  position: relative;
+  top: 2px;
+  font-size: 15px;
+  font-style: normal;
+  line-height: 1px;
+  color: #e8554e;
+}
+input[type="submit"] {
+  width: 330px;
+  text-align: center;
+}
+.send {
+  margin-left: 50px;
+}
+.aside {
+  flex: 1;
+  border-left: 2px solid black;
+}
+.aside .content {
+  margin-left: 20px;
+}
+.aside p {
+  text-indent: 10px;
+}
+ a {
+   text-decoration: none;
+ }
+ a:hover {
+   text-decoration: underline;
+ }
+ a:visited {
+   color: blue;
+ }
+.aside .asidetitle {
+  font-size: 20px;
+  text-indent: 0;
+}
+img {
+  margin-top: 3px;
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,73 @@
+/* BEVERLY GOLDIN RESUME CSS */
+body {
+  font-family: "Verdana", sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  background-color: #ffe038;
+  color: white;
+  height: 120px;
+}
+.title {
+  font-size: 70px;
+  float: left;
+  margin-top: 1%;
+  margin-left: 2.5%;
+  -webkit-text-stroke: 0.85px black;
+  text-shadow:
+   -0.5px -0.5px 0 #fff,
+    0.5px -0.5px 0 #fff,
+    -0.5px 0.5px 0 #fff,
+     0.5px 0.5px 0 #fff;
+  color: white;
+}
+.lower {
+  font-size: 50px;
+}
+.top {
+  margin-top: 78px;
+}
+footer {
+  text-align: center;
+}
+footer img {
+  margin-top: 3px;
+  width: 20px;
+  height: 20px;
+}
+/* NAVIGATION BAR */
+.navbar {
+  width: 100%;
+  display: inline;
+  font-size: 25px;
+  text-align: center;
+  list-style-type: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+.navbar li {
+  display: inline-block;
+  text-align: center;
+  margin-right: 1%;
+  margin-top: 30px;
+  float: right;
+}
+.navbar li a {
+  display: block;
+  color: #0b0707;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 74%;
+  position: relative;
+}
+.active {
+  border-bottom: 2px solid #4c68ff;
+}
